@@ -1,0 +1,2 @@
+# verify-PlatformNotSupportedException-repro
+Reproduce PlatformNotSupportedException with VerifyTests
